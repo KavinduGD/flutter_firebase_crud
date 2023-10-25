@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "500282370381",
+    "project_id": "fir-crud-a592c",
+    "storage_bucket": "fir-crud-a592c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:500282370381:android:c353f9f02e32c0bc61ef04",
+        "android_client_info": {
+          "package_name": "kavindu.flutter_firebase_crud"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQJnqOPajrK9qvXgHUBKN7gL2Q_zqZUaU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
